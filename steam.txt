@@ -32,8 +32,6 @@ cdn2-sea1.valve.net
 *.steam-content-dnld-1.apac-1-cdn.cqloud.com
 *.steam-content-dnld-1.eu-c1-cdn.cqloud.com
 *.steam-content-dnld-1.qwilted-cds.cqloud.com
-edge.steam-dns.top.comcast.net
-edge.steam-dns-2.top.comcast.net
 steam.ix.asn.au
 steam.cdn.on.net
 update5.dota2.wmsj.cn
